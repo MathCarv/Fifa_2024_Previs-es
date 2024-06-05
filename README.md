@@ -38,20 +38,7 @@ Os valores SHAP foram usados para interpretar o modelo XGBoost, com a classifica
 
 O modelo foi usado para identificar jogadores ingleses subvalorizados e supervalorizados. Os jogadores supervalorizados incluíam nomes famosos e/ou jogadores que jogaram para grandes clubes no passado. Isso sugere que popularidade/reputação, que não foi incluída como um recurso, pode inflar o valor dos jogadores além de sua habilidade fundamental.
 
-------------------------
-
-# Conteúdo
-
-**[1. Análise Exploratória de Dados](#eda)**  
-**[2. Modelagem](#modeling)**  
-**&nbsp;&nbsp;[2.1 Preparação de Dados](#data_prep)**  
-**&nbsp;&nbsp;[2.2 Modelo de Linha de Base](#baseline_model)**  
-**&nbsp;&nbsp;[2.3 Regressão Linear Múltipla](#mlr)**   
-**&nbsp;&nbsp;[2.4 Métodos de Aprendizado de Máquina](#ml)**   
-**[3. Interpretação do Modelo](#mi)**   
-**&nbsp;&nbsp;[3.1 Engenharia de Características](#fe)**  
-**[4. Identificação de jogadores supervalorizados/subvalorizados](#iovp)**  
-**[5. Conclusão](#conclusion)**
+------------------------------------------------------------------------------------------------
 
 # Membros da Equipe
 <img src="recursos/matheus.png" style="height:550px;width:360px;display:inline-block;">
